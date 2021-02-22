@@ -1,0 +1,36 @@
+Dsn: 
+	Intan Yuniar Purbasari
+	intanyuniar.if@upnjatim.ac.id
+	0838 5771 6113
+
+SKS:
+	14 x 3 SKS, @SKS:
+		50' TTM
+		60' Penugasan
+		60' Kegiatan Mandiri
+	MK Wajib, tanpa prasyarat
+	Minimal kelulusan nilai C	
+
+Tata Tertib:
+	-
+
+DAA:
+
+--------------------------- Week 1 - Blok 1 ---------------------------
+
+Algorithm?
+Not ambiguous instruction that can giving a solution from a problem.
+And, it will solved in finite time.
+
+Good Algorithm?
+Giving a true solution, in finite time and efficient.
+
+Application with Algorithm?
+	Human Genome Project
+	Big Data Finder (Search Engine)
+	Cryptograph
+
+What's Benefit of Good Algorithm?
+It will give a true solution in the best way and faster time execution.
+
+--------------------------------- END ---------------------------------
