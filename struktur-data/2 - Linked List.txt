@@ -1,0 +1,6 @@
+Week 2 - Linked List Review
+
+Why we use linked list??
+	More flexible
+	Memory save
+
